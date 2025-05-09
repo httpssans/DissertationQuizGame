@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2faf57abf9c97054aa70640a589a59de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuPanel: {instanceID: 0}
+  - topicInputPanel: {instanceID: 0}
+  - aboutPanel: {instanceID: 0}
+  - loadingPanel: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - aboutButton: {instanceID: 0}
+  - exitButton: {instanceID: 0}
+  - topicInput: {instanceID: 0}
+  - startQuizButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - questionGenerator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

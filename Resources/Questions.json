@@ -1,0 +1,1002 @@
+[
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "correctAnswer": "Ottawa",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": "Pacific Ocean",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correctAnswer": "Mercury",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["Wa", "H2O", "HO", "W"],
+      "correctAnswer": "H2O",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which is the largest mammal on Earth?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+      "correctAnswer": "Blue Whale",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is 7 x 8?",
+      "options": ["54", "56", "58", "63"],
+      "correctAnswer": "56",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon Dioxide",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correctAnswer": "William Shakespeare",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correctAnswer": "Tokyo",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which color is formed by mixing blue and yellow?",
+      "options": ["Orange", "Purple", "Green", "Brown"],
+      "correctAnswer": "Green",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "3",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Korea", "Japan", "Thailand"],
+      "correctAnswer": "Japan",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "options": ["Andromeda", "Milky Way", "Black Eye", "Whirlpool"],
+      "correctAnswer": "Milky Way",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the square root of 25?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "5",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "How many players are on a standard soccer team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": "11",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctAnswer": "Canberra",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "2",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "How many days are in a leap year?",
+      "options": ["365", "366", "364", "367"],
+      "correctAnswer": "366",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Lime"],
+      "correctAnswer": "Avocado",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "How many teeth does an adult human typically have?",
+      "options": ["28", "30", "32", "36"],
+      "correctAnswer": "32",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Silver", "Oxygen", "Osmium"],
+      "correctAnswer": "Oxygen",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is 15 + 27?",
+      "options": ["42", "43", "44", "41"],
+      "correctAnswer": "42",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+      "correctAnswer": "Lion",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correctAnswer": "100°C",
+      "difficulty": "Easy",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 10
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo", "Leonardo da Vinci"],
+      "correctAnswer": "Leonardo da Vinci",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctAnswer": "Au",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correctAnswer": "Brasília",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correctAnswer": "George Orwell",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Heart"],
+      "correctAnswer": "Skin",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "KCl", "CaCO3", "H2O"],
+      "correctAnswer": "NaCl",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Alps", "Andes", "Himalayas", "Urals"],
+      "correctAnswer": "Urals",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["Marrakech", "Cairo", "Alexandria", "Tunis"],
+      "correctAnswer": "Cairo",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which is the smallest bone in the human body?",
+      "options": ["Femur", "Stapes", "Tibia", "Radius"],
+      "correctAnswer": "Stapes",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Si", "Sv", "Ag", "Sr"],
+      "correctAnswer": "Ag",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctAnswer": "1945",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "12", "14", "16"],
+      "correctAnswer": "12",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "correctAnswer": "Hydrogen",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correctAnswer": "Yen",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Louis Pasteur", "Marie Curie", "Alexander Fleming", "Joseph Lister"],
+      "correctAnswer": "Alexander Fleming",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "options": ["0°F", "20°F", "32°F", "40°F"],
+      "correctAnswer": "32°F",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["New Zealand", "Australia", "Indonesia", "Philippines"],
+      "correctAnswer": "Australia",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the value of π (pi) to two decimal places?",
+      "options": ["3.12", "3.14", "3.16", "3.18"],
+      "correctAnswer": "3.14",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Who composed the 'Moonlight Sonata'?",
+      "options": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Franz Schubert"],
+      "correctAnswer": "Ludwig van Beethoven",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "options": ["Ld", "Le", "Pb", "Pl"],
+      "correctAnswer": "Pb",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which planet has the Great Red Spot?",
+      "options": ["Mars", "Jupiter", "Venus", "Neptune"],
+      "correctAnswer": "Jupiter",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correctAnswer": "Nile",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "correctAnswer": "Nitrogen",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "In which year did the Chernobyl disaster occur?",
+      "options": ["1984", "1986", "1988", "1990"],
+      "correctAnswer": "1986",
+      "difficulty": "Medium",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 15
+    },
+    {
+      "question": "What is the derivative of x²?",
+      "options": ["x", "2x", "x²", "2x²"],
+      "correctAnswer": "2x",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"],
+      "correctAnswer": "Albert Einstein",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the chemical formula for glucose?",
+      "options": ["C₆H₁₂O₆", "C₆H₆O₆", "C₁₂H₂₂O₁₁", "C₂H₅OH"],
+      "correctAnswer": "C₆H₁₂O₆",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which element has the atomic number 79?",
+      "options": ["Gold", "Silver", "Platinum", "Mercury"],
+      "correctAnswer": "Gold",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who wrote 'War and Peace'?",
+      "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Nikolai Gogol"],
+      "correctAnswer": "Leo Tolstoy",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the capital of Kazakhstan?",
+      "options": ["Almaty", "Astana", "Bishkek", "Tashkent"],
+      "correctAnswer": "Astana",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which scientist discovered the structure of DNA?",
+      "options": ["Watson and Crick", "Franklin and Wilkins", "Mendel and Morgan", "Darwin and Wallace"],
+      "correctAnswer": "Watson and Crick",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the integral of 2x with respect to x?",
+      "options": ["x²", "x²+C", "2x²", "x²/2+C"],
+      "correctAnswer": "x²+C",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which emperor built the Taj Mahal?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+      "correctAnswer": "Shah Jahan",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["299,792,458 m/s", "300,000,000 m/s", "186,000 miles/s", "3 × 10⁸ m/s"],
+      "correctAnswer": "299,792,458 m/s",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who proved the Pythagorean theorem in non-Euclidean geometry?",
+      "options": ["Euclid", "Bernhard Riemann", "Carl Friedrich Gauss", "János Bolyai"],
+      "correctAnswer": "Bernhard Riemann",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the half-life of Carbon-14?",
+      "options": ["5,730 years", "1,600 years", "8,400 years", "10,000 years"],
+      "correctAnswer": "5,730 years",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which philosopher wrote 'Beyond Good and Evil'?",
+      "options": ["Friedrich Nietzsche", "Jean-Paul Sartre", "Immanuel Kant", "Søren Kierkegaard"],
+      "correctAnswer": "Friedrich Nietzsche",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the chemical symbol for tungsten?",
+      "options": ["Tu", "Ts", "Tn", "W"],
+      "correctAnswer": "W",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which theorem states that any even integer greater than 2 can be expressed as the sum of two primes?",
+      "options": ["Fermat's Last Theorem", "Goldbach's Conjecture", "Euler's Theorem", "Gauss's Theorem"],
+      "correctAnswer": "Goldbach's Conjecture",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who composed 'The Four Seasons'?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Antonio Vivaldi", "Ludwig van Beethoven"],
+      "correctAnswer": "Antonio Vivaldi",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": ["0", "7", "7.4", "14"],
+      "correctAnswer": "7",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which famous mathematician is known for the incompleteness theorems?",
+      "options": ["Kurt Gödel", "Georg Cantor", "David Hilbert", "Alan Turing"],
+      "correctAnswer": "Kurt Gödel",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "options": ["Ethane", "Methane", "Propane", "Butane"],
+      "correctAnswer": "Methane",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who discovered the law of universal gravitation?",
+      "options": ["Galileo Galilei", "Albert Einstein", "Isaac Newton", "Johannes Kepler"],
+      "correctAnswer": "Isaac Newton",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Maya", "Aztec", "Inca", "Olmec"],
+      "correctAnswer": "Inca",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the most abundant element in the Earth's crust?",
+      "options": ["Silicon", "Aluminum", "Iron", "Oxygen"],
+      "correctAnswer": "Oxygen",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Who formulated the laws of electromagnetic induction?",
+      "options": ["James Clerk Maxwell", "Michael Faraday", "Nikola Tesla", "Thomas Edison"],
+      "correctAnswer": "Michael Faraday",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the smallest unit of life that can replicate independently?",
+      "options": ["Cell", "Virus", "Prion", "Organelle"],
+      "correctAnswer": "Cell",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "What is the rarest blood type?",
+      "options": ["O negative", "AB negative", "B negative", "A negative"],
+      "correctAnswer": "AB negative",
+      "difficulty": "Hard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 20
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+      "correctAnswer": "Fluorine",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the Schrödinger equation in quantum mechanics?",
+      "options": ["E=mc²", "F=ma", "iħ∂Ψ/∂t = ĤΨ", "∇²Ψ = 0"],
+      "correctAnswer": "iħ∂Ψ/∂t = ĤΨ",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the Riemann Hypothesis?",
+      "options": ["All non-trivial zeros of the zeta function have real part 1/2", "Every even integer > 2 is the sum of two primes", "There are infinitely many pairs of primes that differ by 2", "For n>2, xⁿ+yⁿ=zⁿ has no integer solutions"],
+      "correctAnswer": "All non-trivial zeros of the zeta function have real part 1/2",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the catalyst used in the Haber process?",
+      "options": ["Platinum", "Palladium", "Iron", "Nickel"],
+      "correctAnswer": "Iron",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which physicist proposed the exclusion principle in quantum mechanics?",
+      "options": ["Niels Bohr", "Werner Heisenberg", "Wolfgang Pauli", "Erwin Schrödinger"],
+      "correctAnswer": "Wolfgang Pauli",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the value of Avogadro's number?",
+      "options": ["6.02 x 10²²", "6.02 x 10²³", "6.02 x 10²⁴", "6.02 x 10²⁵"],
+      "correctAnswer": "6.02 x 10²³",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which mathematician is considered the father of game theory?",
+      "options": ["John Nash", "John von Neumann", "Alan Turing", "Claude Shannon"],
+      "correctAnswer": "John von Neumann",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the chemical name for C8H10N4O2?",
+      "options": ["Acetylsalicylic acid", "Caffeine", "Nicotine", "Theobromine"],
+      "correctAnswer": "Caffeine",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which algorithm efficiently finds the shortest path in a weighted graph?",
+      "options": ["Breadth-First Search", "Depth-First Search", "Dijkstra's Algorithm", "Quicksort"],
+      "correctAnswer": "Dijkstra's Algorithm",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+      "options": ["John Locke", "Immanuel Kant", "Friedrich Nietzsche", "Jean-Jacques Rousseau"],
+      "correctAnswer": "Immanuel Kant",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the Henderson-Hasselbalch equation used for?",
+      "options": ["Calculating momentum in physics", "Calculating pH of buffer solutions", "Determining electron configurations", "Predicting genetic inheritance"],
+      "correctAnswer": "Calculating pH of buffer solutions",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which Nobel laureate developed the concept of 'learned helplessness'?",
+      "options": ["Ivan Pavlov", "B.F. Skinner", "Martin Seligman", "Carl Jung"],
+      "correctAnswer": "Martin Seligman",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the time complexity of the quicksort algorithm in worst-case scenario?",
+      "options": ["O(n)", "O(n log n)", "O(n²)", "O(2ⁿ)"],
+      "correctAnswer": "O(n²)",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which geological era came before the Mesozoic?",
+      "options": ["Cenozoic", "Paleozoic", "Proterozoic", "Hadean"],
+      "correctAnswer": "Paleozoic",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which theorem in topology states that any continuous function from an n-sphere to an n-dimensional Euclidean space has at least one point where the function is zero?",
+      "options": ["Brouwer's Fixed-Point Theorem", "Borsuk-Ulam Theorem", "Jordan Curve Theorem", "Poincaré Conjecture"],
+      "correctAnswer": "Borsuk-Ulam Theorem",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the primary component of the Earth's inner core?",
+      "options": ["Liquid iron", "Solid iron-nickel alloy", "Magma", "Granite"],
+      "correctAnswer": "Solid iron-nickel alloy",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which DNA nucleotide pairs with guanine?",
+      "options": ["Adenine", "Thymine", "Cytosine", "Uracil"],
+      "correctAnswer": "Cytosine",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the most accurate model for calculating orbital mechanics?",
+      "options": ["Newtonian mechanics", "General relativity", "Quantum field theory", "Standard model"],
+      "correctAnswer": "General relativity",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which linguistic theory proposes that language acquisition is innate to humans?",
+      "options": ["Universal Grammar", "Behaviorist Theory", "Constructivist Theory", "Statistical Learning Theory"],
+      "correctAnswer": "Universal Grammar",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What causes the northern lights (aurora borealis)?",
+      "options": ["Light refraction in ice crystals", "Solar wind interacting with Earth's magnetosphere", "Reflection of sunlight from polar ice", "Bioluminescent plankton in the atmosphere"],
+      "correctAnswer": "Solar wind interacting with Earth's magnetosphere",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which cryptographic algorithm uses elliptic curves?",
+      "options": ["RSA", "AES", "ECDSA", "Blowfish"],
+      "correctAnswer": "ECDSA",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Who formulated the principle of least action in physics?",
+      "options": ["Richard Feynman", "Pierre-Louis Maupertuis", "Max Planck", "Werner Heisenberg"],
+      "correctAnswer": "Pierre-Louis Maupertuis",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "What is the chemical process that converts amino acids to proteins?",
+      "options": ["Glycolysis", "Krebs cycle", "Translation", "Transcription"],
+      "correctAnswer": "Translation",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which mathematical constant is defined as the sum of 1 + 1/4 + 1/9 + 1/16 + ... (sum of reciprocals of perfect squares)?",
+      "options": ["π²/6", "e", "y (Euler-Mascheroni constant)", "φ (Golden ratio)"],
+      "correctAnswer": "π²/6",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    },
+    {
+      "question": "Which ancient Greek text introduced the concept of 'unmoved mover'?",
+      "options": ["Republic by Plato", "Physics by Aristotle", "Elements by Euclid", "The Symposium by Plato"],
+      "correctAnswer": "Physics by Aristotle",
+      "difficulty": "VeryHard",
+      "answerType": "Single",
+      "useTimer": true,
+      "timer": 60,
+      "addScore": 25
+    }
+  ]
